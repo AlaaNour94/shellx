@@ -1,6 +1,6 @@
 # ShellX
 
-An simple Unix shell implementation with job control, command history persistence, and pipeline support.
+A very simple Unix shell implementation with job control, command history persistence, and pipeline support.
 
 ## Features
 
