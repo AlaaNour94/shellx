@@ -1,5 +1,5 @@
 CC = gcc
-CFLAGS = -Wall -Wextra -g -I./include
+CFLAGS = -Wall -g -I./include
 LDFLAGS = -lreadline -lsqlite3
 
 # Source and object files
